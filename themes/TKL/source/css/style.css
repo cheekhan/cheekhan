@@ -455,7 +455,7 @@ a.custom-button span {
 }
 
 /* *******************************************************
-* Autohiding Navbar, (all pages)
+* Autohiding Navbar, (all pages.yml)
 ******************************************************* */
 .logo {
 	position: absolute;
@@ -607,7 +607,7 @@ nav i.icon-basic-eye {
 }
 
 /* *******************************************************
-* Off-canvas navigation, (across all pages)
+* Off-canvas navigation, (across all pages.yml)
 ******************************************************* */
 /* Bug fix */
 #sb-site {
@@ -964,7 +964,7 @@ span.sb-caret { /* Caret Down */
 }
 
 /* *******************************************************
-* Titleblock, (all pages)
+* Titleblock, (all pages.yml)
 ******************************************************* */
 .titleblock {
 	padding-bottom: 60px;
@@ -1391,7 +1391,7 @@ span.sb-caret { /* Caret Down */
 }
 
 /* *******************************************************
-* Featured work section, (homepage & portfolio pages)
+* Featured work section, (homepage & portfolio pages.yml)
 ******************************************************* */
 #featured {
 	padding-bottom: 7px;
@@ -1534,7 +1534,7 @@ hr.byline-accent {
 }
 
 /* *******************************************************
-* Full-width image section, (all pages)
+* Full-width image section, (all pages.yml)
 ******************************************************* */
 
 #fullwidth-img {
@@ -2103,7 +2103,7 @@ ul.page-nav i {
 }
 
 /* *******************************************************
-* Popovers, (all pages)
+* Popovers, (all pages.yml)
 ******************************************************* */
 .popovers {
 	cursor: help;
@@ -2957,7 +2957,7 @@ button.send{
 }
 
 /* *******************************************************
-* Hire us, (all pages).
+* Hire us, (all pages.yml).
 ******************************************************* */
 #hire-us {
 	padding: 25px 0 15px;
@@ -3067,7 +3067,7 @@ button.send{
 
 
 /* *******************************************************
-* Global footer, (all pages)
+* Global footer, (all pages.yml)
 ******************************************************* */
 footer {
 	padding:5% 0 0;
